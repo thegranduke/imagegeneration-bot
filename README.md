@@ -25,7 +25,11 @@ A Discord bot that generates images using AI based on user prompts.
 - Requests
 
 ## Screenshot
-[Insert a screenshot of the bot in action]
+PriceAlerts(https://github.com/user-attachments/assets/02b53be2-c7b6-4e7a-a11d-3dddc9f8a4c4)
+
+Image generation(https://github.com/user-attachments/assets/51e85bf3-c744-4d2f-8df3-8094eb3e1a4e)
+
+
 
 ## Future Improvements
 - Rate limiting
